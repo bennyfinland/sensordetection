@@ -1,0 +1,2 @@
+serviceClass: sensordetection.client.GreetingService
+path: 610878116D77E8594EA30AF519B3C30C.gwt.rpc

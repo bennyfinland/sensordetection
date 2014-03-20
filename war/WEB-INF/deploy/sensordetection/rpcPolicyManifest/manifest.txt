@@ -1,0 +1,3 @@
+# Module sensordetection
+# RPC service class, partial path of RPC policy file
+sensordetection.client.GreetingService, 610878116D77E8594EA30AF519B3C30C.gwt.rpc
