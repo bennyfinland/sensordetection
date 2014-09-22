@@ -1,5 +1,5 @@
 
-Real location demo
+Real location demo (JavaScript)
 ==========================
 
 
