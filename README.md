@@ -5,7 +5,7 @@ Real location demo
 
 Code poll: sensordetection/war/Sensordetection.html (Eclipse)
 
-JS code poll: sensordetection/war/function.js
+<b>JS code poll: sensordetection/war/function.js</b>
 
 Link: http://sensordetection.appspot.com/
 
