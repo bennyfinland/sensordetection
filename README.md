@@ -5,6 +5,8 @@ Real location demo
 
 Code poll: sensordetection/war/Sensordetection.html (Eclipse)
 
+JS code poll: sensordetection/war/function.js
+
 Link: http://sensordetection.appspot.com/
 
 Operation environment: Andriod with Mozilla Firefox browser
